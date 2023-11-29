@@ -1,0 +1,44 @@
+img{
+    height: 500x;
+    width: 500px;
+}
+.container1{
+    
+    position: relative;
+    padding-top: 100px;
+}
+
+body{
+    text-align: center;
+    background-color: aliceblue;
+    margin: 0;
+    
+    
+    
+}
+hr{
+    border: dotted lightblue 5px;
+    opacity: 2;
+    width: 10%;
+    border-bottom: none;
+    margin: 5% auto;
+}
+
+img:hover{
+    
+    
+    border: gold  solid 10px;
+    border-radius: 50%;
+}
+a:hover{
+    color: aqua;
+}
+.name{
+    position: absolute;
+    top: 300px;
+    right: 30px;
+    
+}
+
+ 
+
